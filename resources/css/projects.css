@@ -1,0 +1,9 @@
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #d1d5db;
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.1);
+}
